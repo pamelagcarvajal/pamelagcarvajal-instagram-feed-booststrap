@@ -1,0 +1,83 @@
+body {
+	background-color: black !important;
+}
+
+/* -----
+
+DROPDOWN
+
+----- */
+
+.dropdown-menu {
+	margin-left: -85px !important;
+}
+
+
+/* -----
+
+INDEX
+
+----- */
+
+.postBooststrap {
+	width: 800px !important;
+	height: 900px;
+	background: white;
+	margin-bottom: 50px;
+	overflow-y: auto;
+}
+
+.img-size {
+	width: 250px;
+	height: 250px;
+	margin-bottom: 5px;
+}
+
+.center-button {
+	margin-left: 47%;
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+.button-size {
+	width: 10px;
+	border-radius: 10px;
+}
+
+/* -----
+
+VIEW
+
+----- */
+
+.simpleInstagram {
+	width: 550px;
+	height: 420px;
+	background: white;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.photoTitle {
+	width: 100%;
+	size: 16px;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	margin-bottom: null;
+}
+
+.photoNumber {
+	color: #b8b8b8;
+	margin: 0px 0px 10px 500px;
+	
+}
+
+
+.simpleInstagram-body img {
+	width: 550px;
+	height: 300px;
+}
+
+.simpleInstagram-footer {
+	margin: 0 20px 0 20px;
+}
